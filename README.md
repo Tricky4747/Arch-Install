@@ -6,3 +6,5 @@ All you gotta do is:
 wget https://tricky.ml/arch.txt
 
 and there :D
+
+PS: all content is "borrowed" from arch wiki  : https://wiki.archlinux.org/title/installation_guide
