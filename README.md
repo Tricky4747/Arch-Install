@@ -3,7 +3,7 @@ Ever tired of getting stuck on an arch install? Ever tired of typing all the com
 
 All you gotta do is:
 
-wget https://tricky.ml/arch.txt
+wget https://www.tricky.ml/arch.txt
 
 and there :D
 
